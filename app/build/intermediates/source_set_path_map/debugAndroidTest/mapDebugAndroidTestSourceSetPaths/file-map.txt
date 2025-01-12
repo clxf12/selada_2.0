@@ -1,0 +1,6 @@
+com.example.sispak_kel_9.test.app-annotation-experimental-1.3.0-0 C:\Users\lapto\.gradle\caches\8.10.2\transforms\2706ff86a45842d047e8f0a5392d3a88\transformed\annotation-experimental-1.3.0\res
+com.example.sispak_kel_9.test.app-core-1.5.0-1 C:\Users\lapto\.gradle\caches\8.10.2\transforms\d576c5b3e4bd1e4f3ed7064ea369cb7e\transformed\core-1.5.0\res
+com.example.sispak_kel_9.test.app-androidTest-2 D:\selada\selada_2.0\app\build\generated\res\resValues\androidTest\debug
+com.example.sispak_kel_9.test.app-mergeDebugAndroidTestResources-3 D:\selada\selada_2.0\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.sispak_kel_9.test.app-mergeDebugAndroidTestResources-4 D:\selada\selada_2.0\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.sispak_kel_9.test.app-debugAndroidTest-5 D:\selada\selada_2.0\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

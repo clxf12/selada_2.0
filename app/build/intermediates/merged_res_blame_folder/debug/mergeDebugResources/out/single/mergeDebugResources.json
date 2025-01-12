@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_bg_img.jpg.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/bg_img.jpg"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_logo_fix.png.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/logo_fix.png"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_matakodok_img.jpg.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/matakodok_img.jpg"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_lingkaran_deteksi.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/lingkaran_deteksi.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/layout_activity_deteksi.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/layout/activity_deteksi.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_kelompok.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/kelompok.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_antrocnose.png.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/antrocnose.png"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/raw_record2.mp4.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/raw/record2.mp4"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/layout_activity_daftar_penyakit.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/layout/activity_daftar_penyakit.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_custom_card_corner.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/custom_card_corner.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_logo.png.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/font_fenixregular.ttf.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/font/fenixregular.ttf"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_busuk_batang.jpg.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/busuk_batang.jpg"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_anthrocnose.png.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/anthrocnose.png"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_deteksi_button.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/deteksi_button.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_daftar_penyakit.png.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/daftar_penyakit.png"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_kamera.png.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/kamera.png"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/layout_activity_splash.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/font_fradm.TTF.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/font/fradm.TTF"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_account_question_outline.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/account_question_outline.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/raw_record1.mp4.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/raw/record1.mp4"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/layout_activity_pakar_info.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/layout/activity_pakar_info.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_shadowdeteksi2.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/shadowdeteksi2.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/layout_deteksi.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/layout/deteksi.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_tentang.png.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/tentang.png"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_serti_pakar.jpg.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/serti_pakar.jpg"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_shadowdeteksi.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/shadowdeteksi.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/font_felixti.TTF.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/font/felixti.TTF"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_loading.gif.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/loading.gif"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_selada_eyes.png.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/selada_eyes.png"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_lingkaran_hama.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/lingkaran_hama.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_mosaic_virus.png.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/mosaic_virus.png"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_pakar.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/pakar.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_shadowbutton.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/shadowbutton.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_apk.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/apk.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_tampilan_awal.jpg.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/tampilan_awal.jpg"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/layout_activity_tentang.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/layout/activity_tentang.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/raw_record3.mp4.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/raw/record3.mp4"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_busuk_akar.jpg.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/busuk_akar.jpg"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_splash.png.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/splash.png"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_lingkaran_tentang.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/lingkaran_tentang.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_buttonhome.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/buttonhome.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_deteksi_button_2.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/deteksi_button_2.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_galery.png.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/galery.png"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_deteksi.png.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/deteksi.png"
+    },
+    {
+        "merged": "com.example.sispak_kel_9.app-debug-32:/drawable_pakar_sispak.jpg.flat",
+        "source": "com.example.sispak_kel_9.app-main-34:/drawable/pakar_sispak.jpg"
+    }
+]
